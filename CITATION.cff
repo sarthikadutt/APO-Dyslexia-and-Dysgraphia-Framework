@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "APO-Dyslexia-Dysgraphia-Framework"
+message: "If you use this software, please cite the accompanying paper and this repository."
+type: software
+authors:
+  - family-names: Ahuja
+    given-names: Neelu
+  - family-names: Dutt
+    given-names: Sarthika
+year: 2026
+license: MIT
+repository-code: "https://github.com/YOUR-USERNAME/APO-Dyslexia-Dysgraphia-Framework"

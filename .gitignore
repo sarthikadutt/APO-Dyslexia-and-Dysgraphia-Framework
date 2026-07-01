@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+*.pt
+*.pth
+*.ckpt
+models/checkpoints/
+data/iam/
+data/disability_specific/
+.DS_Store
