@@ -1,0 +1,4 @@
+metric,single agent,apo
+diagnostic f1,0.76,0.92
+intervention relevance,0.68,0.89
+latency seconds,1.4,2.3
