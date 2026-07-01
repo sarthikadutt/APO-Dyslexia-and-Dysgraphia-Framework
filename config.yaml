@@ -1,0 +1,6 @@
+image_height: 128
+confidence_threshold: 0.80
+frustration_threshold: 0.65
+tier_promotion_f1: 0.85
+rolling_window_samples: 5
+demo_only: true
