@@ -37,11 +37,3 @@ data/
 └── demo_dataset/
 ```
 
-Document:
-
-- source of data
-- consent/ethics approval
-- anonymization method
-- labelling protocol
-- train/validation/test split
-- augmentation settings
