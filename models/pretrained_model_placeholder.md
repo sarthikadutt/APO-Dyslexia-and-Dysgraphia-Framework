@@ -21,16 +21,6 @@ Large trained checkpoints are excluded because:
 - fine-tuned checkpoints may encode patterns from restricted handwriting datasets;
 - disability-specific handwriting data may require privacy-preserving handling.
 
-## If You Add a Checkpoint
+## Add a Checkpoint
 
-Please document:
-
-- model architecture
-- training data source
-- training date
-- hyperparameters
-- evaluation metrics
-- ethical/data permissions
-- license or redistribution terms
-
-For large files, use Git LFS or a DOI repository such as Zenodo.
+sitory such as Zenodo.
