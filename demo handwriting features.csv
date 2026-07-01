@@ -1,0 +1,6 @@
+sample_id,image path,true category,STAS,LTVC,SCI,GRI,apo pred category,baseline_pred_category,apo intervention relevance,baseline intervention relevance,apo latency sec,baseline latency sec,user sentiment score
+1,data/images/nld_0000.png,NLD,0.195,0.078,0.288,0,NLD,NLD,0.825,0.69,2.237,1.398,7.99
+2,data/images/orthographic_0001.png,Orthographic,0.323,0.247,0.334,1,Orthographic,Orthographic,0.847,0.71,2.108,1.505,8.47
+3,data/images/spatial_0002.png,Spatial,0.289,0.282,0.648,0,Spatial,Spatial,0.872,0.723,2.373,1.45,8.76
+4,data/images/kinematic_0003.png,Kinematic,0.463,0.448,0.322,0,Kinematic,NLD,0.965,0.611,2.494,1.198,8.3
+5,data/images/mixed_0004.png,Mixed,0.67,0.455,0.562,0,Spatial,Orthographic,0.83,0.719,2.206,1.401,8.79
