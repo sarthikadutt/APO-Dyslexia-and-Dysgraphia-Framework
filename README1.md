@@ -24,8 +24,7 @@ APO-Dyslexia-Dysgraphia-Framework/
 ├── requirements.txt
 ├── environment.yml
 ├── CITATION.cff
-├── LICENSE
-└── UPLOAD_TO_GITHUB.md
+└── LICENSE
 ```
 
 ## Methodological Alignment with the Paper
