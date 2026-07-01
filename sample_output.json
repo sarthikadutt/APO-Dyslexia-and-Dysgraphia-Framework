@@ -1,0 +1,52 @@
+{
+  "input_image": "/mnt/data/APO-Dyslexia-Dysgraphia-Framework/data/sample_images/demo_handwriting.png",
+  "session_history": [
+    {
+      "timestamp": "2026-07-01T10:10:49.001397Z",
+      "diagnostic_payload": {
+        "STAS": 0.1294156197486366,
+        "LTVC": 0.16745523375666013,
+        "SCI": 0.3080515467459098,
+        "GRI": 0,
+        "error_category": "Orthographic",
+        "confidence": 0.86
+      },
+      "pedagogical_path": [
+        "sound_symbol_mapping",
+        "bed_mnemonic",
+        "multisensory_letter_practice"
+      ]
+    }
+  ],
+  "preprocessed_image_available": true,
+  "transcription": "demo handwriting",
+  "diagnostic_payload": {
+    "STAS": 0.1294156197486366,
+    "LTVC": 0.16745523375666013,
+    "SCI": 0.3080515467459098,
+    "GRI": 0,
+    "error_category": "Orthographic",
+    "confidence": 0.86
+  },
+  "detected_errors": [],
+  "learner_frustration_lvl": 0.0,
+  "current_scaffolding_tier": 3,
+  "pedagogical_path": [
+    "sound_symbol_mapping",
+    "bed_mnemonic",
+    "multisensory_letter_practice"
+  ],
+  "scaffolding_output": {
+    "primary_instruction": "Write the word independently and check your spacing and letter direction.",
+    "visual_scaffold_spec": {
+      "type": "svg_overlay",
+      "elements": [
+        "sound_symbol_mapping",
+        "bed_mnemonic",
+        "multisensory_letter_practice"
+      ],
+      "opacity": 0.2
+    },
+    "verbal_script": "Good effort. Let us use a helpful strategy and try the next attempt calmly."
+  }
+}
